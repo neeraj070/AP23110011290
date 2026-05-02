@@ -4,6 +4,7 @@
 
 The project is a plain React application built with JavaScript, HTML, and CSS. It uses a small modular structure:
 
+
 - `logging_middleware/` contains a reusable copy of the frontend logger for evaluation.
 - `notification_app_fe/` contains the complete React frontend application.
 - `notification_app_be/` is present for the required submission structure; this frontend submission uses the provided evaluation backend.
